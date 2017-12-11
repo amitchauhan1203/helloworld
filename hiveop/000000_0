@@ -1,0 +1,11 @@
+1|Peter|142|42
+2|Lois|189|89
+3|Meg|110|10
+4|Chris|142|42
+5|Stewie|172|72
+6|Glenn|169|69
+12|amit|123|23
+\N||124|ERROR
+\N|ramu|123|ERROR
+\N|\N|\N|ERROR
+145|ramu|123|23

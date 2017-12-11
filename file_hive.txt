@@ -1,0 +1,11 @@
+1,Peter,142
+2,Lois,189
+3,Meg,110
+4,Chris,142
+5,Stewie,172
+6,Glenn,169
+12,amit,123
+,,124
+abcd,ramu,123
+
+145,ramu,123
