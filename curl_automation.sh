@@ -20,7 +20,7 @@ echo "=========PASS=========="
 echo "INPUT id : $var1 "
 echo "INPUT US shoe size : $var3 "
 echo "Expected INDIA shoe size : $var4 "
-echo "API output is :  $output_curl "
+echo " API output is :  $output_curl "
 echo "======================="
 
 elif [ "$var4" != "ERROR" ] && [ "$API_ERROR_OR_NOT" = "error" ]
